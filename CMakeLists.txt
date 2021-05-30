@@ -3,4 +3,4 @@ project(tg_project)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(tg_project main.cpp)
+add_executable(tg_project main.cpp class.cpp class.h)

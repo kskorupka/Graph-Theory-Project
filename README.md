@@ -1,7 +1,7 @@
 ## Bellman-Ford Algorithm
 This algorithm was written using C++ language. 
 ### Input
-To run the algorithm correctly, there is a .txt file needed. The programme will ask for the .txt file name (in this case: list1.txt or list2.txt \[they are located in the cmake-build-debug folder\]).<br><br>
+To run the algorithm correctly, there is a .txt file needed. The programme will ask for the .txt file name <br><br>
 <b>The .txt file consists of (integer variables):</b><br>
 number_of_nodes number_of_edges starting_node<br>
 (edge_1) from_node_1 destination_node_1 cost_1<br>
@@ -19,4 +19,4 @@ number_of_nodes number_of_edges starting_node<br>
 3 2 2<br>
 3 4 2<br>
 ### Output
-The programme will create result.txt file (in the same folder where other .txt files are located). 
+The programme will create result.txt file.
