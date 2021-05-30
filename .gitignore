@@ -1,1 +1,11 @@
 /.idea/
+/cmake_install.cmake/
+/CMakeFiles/
+/Testing/
+/CMakeCache.txt/
+/Makefile/
+/pptest.cbp/
+/pptest.exe/
+/pptest.ilk/
+/pptest.pdb/
+
