@@ -88,12 +88,6 @@
 		<Unit filename="C:/Users/Kamila/Desktop/testtt/pptest/class.h">
 			<Option target="pptest"/>
 		</Unit>
-		<Unit filename="C:/Users/Kamila/Desktop/testtt/pptest/list1.txt">
-			<Option target="pptest"/>
-		</Unit>
-		<Unit filename="C:/Users/Kamila/Desktop/testtt/pptest/list2.txt">
-			<Option target="pptest"/>
-		</Unit>
 		<Unit filename="C:/Users/Kamila/Desktop/testtt/pptest/main.cpp">
 			<Option target="pptest"/>
 		</Unit>
