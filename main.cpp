@@ -21,6 +21,7 @@ int main(){
         graph.addEdge(i, Edge(from, end, value));
     }
     int* distances = graph.Bellman_Ford(node);
+    out<<"Result for "<<filename<<" file.\n";
     out<<"Paths for "<<node<<" node:\n";
     for (int i = 1; i < n; i++) out << "Minimal cost of the path to " << i << ": " << distances[i] << endl;
     cout<<"\nNow, check the result.txt file\n";

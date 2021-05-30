@@ -1,3 +1,4 @@
+Result for list1.txt file.
 Paths for 0 node:
 Minimal cost of the path to 1: 5
 Minimal cost of the path to 2: 3
