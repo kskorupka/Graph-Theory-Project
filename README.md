@@ -17,6 +17,7 @@ number_of_nodes number_of_edges starting_node<br>
 2 1 2<br>
 2 3 1<br>
 3 2 2<br>
-3 4 2<br>
+3 4 2<br><br>
+![image](https://user-images.githubusercontent.com/72651147/120117579-15c9de00-c18e-11eb-8f01-056f8d4af8ec.png)
 ### Output
 The programme will create result.txt file.
